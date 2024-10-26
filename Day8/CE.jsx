@@ -1,4 +1,4 @@
-day 8)   CE                                                                                                                                                                           import { useEffect, useState } from 'react';
+                                                                                                                                                                       import { useEffect, useState } from 'react';
 
 const App = () => {
   const [message, setMessage] = useState('Hello dear one, learning React...');
